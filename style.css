@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background: linear-gradient(to right, #e6f0ff, #ffffff);
+}
+
+/* Header */
+header {
+    background: #4a6cf7;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+/* Sections */
+section {
+    background: white;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+/* Headings */
+h2 {
+    color: #4a6cf7;
+}
+
+/* Images */
+img {
+    margin-top: 10px;
+    border-radius: 10px;
+}
